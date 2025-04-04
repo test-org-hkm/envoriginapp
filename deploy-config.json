@@ -9,7 +9,7 @@
     "postgres": false
   },
   "env_variables": {
-    "PIKACHU": "72"
+    "PIKACHU": "75"
   },
   "namespace": "utils",
   "port": 8000,
