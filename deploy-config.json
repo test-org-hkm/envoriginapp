@@ -1,0 +1,17 @@
+{
+  "github_repo_link": "https://github.com/test-org-hkm/envoriginapp",
+  "domain_name": "envoriginapp",
+  "cpu": "200m",
+  "ram": "512Mi",
+  "databases": {
+    "clickhouse": false,
+    "redis": false,
+    "postgres": false
+  },
+  "env_variables": {
+    "PIKACHU": "100"
+  },
+  "namespace": "utils",
+  "port": 8000,
+  "replicas": 1
+}
